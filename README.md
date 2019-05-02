@@ -1,9 +1,9 @@
-# ICML2017Demo
+# Context-based-Music-Recommender
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 
-Machine Learning for Music Discovery
+Machine Learning for Music Recommendation System
 
 ![](https://habrastorage.org/web/d69/4cd/053/d694cd0537084ab99c6dc35cf77f5f00.png)
 
