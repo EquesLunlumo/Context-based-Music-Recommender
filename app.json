@@ -1,0 +1,10 @@
+{
+  "name": "Hybrid Music Recommender",
+  "description": "Ephemeral Context to Support Robust and Diverse Music Recommendations",
+  "keywords": [
+    "flask",
+    "python",
+    "ICML"
+  ],
+  "repository": "https://github.com/pavelk2/ICML2017Demo"
+}
