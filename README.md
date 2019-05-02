@@ -19,12 +19,12 @@ python app.py
 ## API
 
 * Code: https://github.com/EquesLunlumo/Context-based-Music-Recommender
-* Hosted on Heroku: https://Context-based-Music-Recommender-SNIST-4-2.herokuapp.com
+* Hosted on Heroku: https://cb-musicrec-snist-4-2.herokuapp.com
 * Request example:
 
 ```
 GET /recommend?context=1,0,1,1,0,1,1,1&amp;weights=60,40,40 HTTP/1.1
-Host: Context-based-Music-Recommender-SNIST-4-2.herokuapp.com
+Host: cb-musicrec-snist-4-2.herokuapp.com
 ```
 
 ## API usage example
@@ -33,7 +33,7 @@ Host: Context-based-Music-Recommender-SNIST-4-2.herokuapp.com
 
 ```
 GET /recommend?context=1,0,0,0,0,0,0,1&amp;weights=40,30,30 HTTP/1.1
-Host: Context-based-Music-Recommender-SNIST-4-2.herokuapp.com
+Host: cb-musicrec-snist-4-2.herokuapp.com
 ```
 #### Response
 
